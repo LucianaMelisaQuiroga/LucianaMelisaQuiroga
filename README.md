@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @LucianaMelisaQuiroga
-- 🌱 I’m currently learning Python Programming for Analytics & Libraries like Numpy, Pandas and Matplotlib, and Data Engineering Fundamentals like Information Engineering, 
-ETL, RDBMS, SQL, NoSQL and Web Scraping. <br>
-- ☁️ I learned the fundamentals of Cloud Computing, and now i'm getting knowledge to create value from data to insights on the cloud.   
+@Hi, my name is Luciana.
 
+My profile 👇🏼 (skills & tools)
+- 💻 Languages: Python, SQL, C#, .NET 6, JavaScript, HTML & CSS
+- ⚙️Infrastructure: Cloud Computing (AWS - GCP), Docker
+- 🛠 Tools & management: Git, Github, Visual Studio Code, Visual Studio, Jupyter, Jira, Agile Methodologies, Lean manufacturing
+- 🔊 English: Technical Level 
+- 🔗Interests: Programming - Backend - Software Engineer
 <!---
 LucianaMelisaQuiroga/LucianaMelisaQuiroga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
