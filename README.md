@@ -1,9 +1,9 @@
 @Hi, my name is Luciana.
 
 My profile 👇🏼 (skills & tools)
-- 💻 Languages: Python, SQL, .NET with C#, JavaScript, HTML & CSS
+- 💻 Languages: Python, SQL, .NET with C#, HTML, CSS
 - ⚙️Infrastructure: Cloud Computing, Docker
-- 🛠 Tools & management: Git, Github, Visual Studio Code, Visual Studio, Jupyter, Jira, Agile Methodologies, Lean manufacturing
+- 🛠 Tools & management: Git, Github, Bash, Jira, Agile Methodologies, Lean manufacturing
 - 🔊 English: Technical Level 
 - 🔗Interests: Programming - Backend - Software Engineer - Big Data
 <!---
